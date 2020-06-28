@@ -1,8 +1,8 @@
 #===============================================================================
 # 2020/06/25
 # COVID-19 Japan data collection project
-# Ryohei Mogi, rmogi@ced.uab.es
 # Fumiya Uchikoshi, uchikoshi@princeton.edu
+# with a support from Ryohei Mogi, rmogi@ced.uab.es
 #===============================================================================
 
 ######################################################################
@@ -108,8 +108,9 @@ shp <- system.file("shapes/jpn.shp", package = "NipponMap")[1]
 dfm <- sf::read_sf(shp) %>% 
   left_join(df,by = c("name" = "Region")) %>% 
   left_join(df_age,by = c("name" = "Region")) %>% 
-  left_join(df_sex,by = c("name" = "Region"))
-
+  left_join(df_sex,by = c("name" = "Region")) %>% 
+  mutate(Value=if_else(Value==0,NaN,Value))
+  
 dfm_points <- sf::st_point_on_surface(dfm)
 dfm_coords <- as.data.frame(sf::st_coordinates(dfm_points))
 dfm_coords$NAME <- dfm$jiscode
