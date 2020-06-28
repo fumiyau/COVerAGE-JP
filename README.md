@@ -16,3 +16,6 @@ Information about COVID-19 deaths is based on periodic reports by prefectures, m
 - Region: name of prefecture in English
 - Age and Sex: case's age and sex
 - URL: url to sources
+
+# Document
+The document that explains the data collection process with illustration of data is available [here](https://osf.io/y4nqr/)
