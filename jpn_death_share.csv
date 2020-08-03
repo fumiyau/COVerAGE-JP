@@ -975,3 +975,29 @@ NA,2020-06-30,28,"兵庫","Hyogo","90","F","https://www.kobe-np.co.jp/news/sougo
 2020-07-19,2020-07-20,11,"埼玉","Saitama","80","M","https://www.pref.saitama.lg.jp/a0001/news/page/2020/0720-06.html"
 2020-07-20,2020-07-21,11,"埼玉","Saitama","60","M","https://www.pref.saitama.lg.jp/a0001/news/page/2020/0721-07.html"
 2020-07-22,2020-07-22,23,"愛知","Aichi","80","M","http://www.city.nagoya.jp/kenkofukushi/cmsfiles/contents/0000126/126920/R20722kisyahappyouhp(sibou).pdf"
+<<<<<<< HEAD
+=======
+2020-07-22,2020-07-22,1,"北海道","Hokkaido","60","M","http://www.pref.hokkaido.lg.jp/hf/kth/kak/kisyakaikensapporo0723.pdf"
+2020-07-22,2020-07-23,11,"埼玉","Saitama","80","M","https://www.pref.saitama.lg.jp/a0001/news/page/2020/0723-01.html"
+2020-07-24,2020-07-24,27,"大阪","Osaka","80","M","http://www.pref.osaka.lg.jp/hodo/index.php?site=fumin&pageId=38842"
+2020-07-24,2020-07-24,11,"埼玉","Saitama","90","F","https://www.city.kawaguchi.lg.jp/material/files/group/86/corona20200724.pdf"
+2020-07-24,2020-07-25,26,"京都","Kyoto","UNK","UNK","https://www3.nhk.or.jp/news/html/20200724/k10012531321000.html"
+2020-07-24,2020-07-25,42,"長崎","Nagasaki","UNK","UNK","https://www.city.nagasaki.lg.jp/fukushi/450000/454000/p034301_d/fil/R20725_17.pdf"
+2020-07-01,2020-07-25,13,"東京","Tokyo","80","F","https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/07/25/02.html"
+2020-07-25,2020-07-25,27,"大阪","Osaka","60","M","http://www.pref.osaka.lg.jp/hodo/index.php?site=fumin&pageId=38843"
+2020-07-26,2020-07-27,26,"京都","Kyoto","60","M","https://www.city.kyoto.lg.jp/hokenfukushi/cmsfiles/contents/0000273/273096/200727oshirase(sibou).pdf"
+2020-07-27,2020-07-28,12,"千葉","Chiba","70","M","https://www.pref.chiba.lg.jp/shippei/press/2020/documents/ncovd47-48.pdf"
+2020-07-27,2020-07-28,12,"千葉","Chiba","70","M","https://www.pref.chiba.lg.jp/shippei/press/2020/documents/ncovd47-48.pdf"
+2020-07-28,2020-07-28,46,"鹿児島","Kagoshima","90","F","https://www3.nhk.or.jp/news/html/20200728/k10012537731000.html"
+2020-07-27,2020-07-29,14,"神奈川","Kanagawa","80","M","http://www.city.kawasaki.jp/350/cmsfiles/contents/0000115/115886/0729.pdf"
+2020-07-28,2020-07-29,11,"埼玉","Saitama","90","UNK","https://www.pref.saitama.lg.jp/a0001/news/page/2020/0729-07.html"
+2020-07-15,2020-07-29,13,"東京","Tokyo","80","F","https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/07/29/19.html"
+2020-07-26,2020-07-29,27,"大阪","Osaka","50","M","http://www.pref.osaka.lg.jp/hodo/index.php?site=fumin&pageId=38878"
+2020-07-19,2020-07-30,13,"東京","Tokyo","90","F","https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/07/30/24.html"
+2020-06-18,2020-07-31,13,"東京","Tokyo","50","M","https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/07/31/15.html"
+2020-07-14,2020-07-31,13,"東京","Tokyo","70","M","https://www.metro.tokyo.lg.jp/tosei/hodohappyo/press/2020/07/31/15.html"
+2020-07-30,2020-07-31,11,"埼玉","Saitama","80","M","https://www.pref.saitama.lg.jp/a0001/news/page/2020/0731-30.html"
+2020-07-31,2020-07-31,12,"千葉","Chiba","80","M","https://www.pref.chiba.lg.jp/shippei/press/2020/documents/ncovd49.pdf"
+NA,NA,27,"大阪","Osaka","70","M",NA
+2020-07-31,NA,40,"福岡","Fukuoka","60","F",NA
+>>>>>>> develop

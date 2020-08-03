@@ -14,8 +14,11 @@ Information about COVID-19 deaths is based on periodic reports by prefectures, m
 - RegionNo: number assigned to each prefecture
 - RegionJp: name of prefecture in Japanese
 - Region: name of prefecture in English
-- Age and Sex: case's age and sex
+- Age and Sex: case's age (10-year age groups) and sex (M: male, F: female, UNK: unstated)
 - URL: url to sources
 
 # Document
 The document that explains the data collection process with illustration of data is available [here](https://osf.io/y4nqr/)
+
+# Note
+This database does not include probable deaths due to COVID-19. 
